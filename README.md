@@ -3,7 +3,7 @@
 <h1> Lab descriptions: </h1> 
 
 <br> 1. Straight and cross circuiting </br>
-2. Osi model simulation 
+2. <br>Osi model simulation 
 3.  basic config of router password 
 4.  configuring interfaces of the router to route 3 lans 
 5.  simple two switch and a router configuration   
