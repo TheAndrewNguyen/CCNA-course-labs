@@ -9,7 +9,7 @@
 <br>5. simple two switch and a router configuration   
 6. static routing with two routers
 <br>7. static routing 3 routers 
-<br>8. Subnetting class C network 
+<br>8. Subnetting class C network VSLM 
 <br>9. setup 3 vlans for 3 lans under one network subnetted
 <br>10. 3 vlans and router on a stick one vlan on two differnent switches used trunking to set that up 
 <br>11. Intervlan routing eliminated use of router on a stick 
