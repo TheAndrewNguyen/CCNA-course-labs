@@ -3,11 +3,11 @@
 <h1> Lab descriptions: </h1> 
 
 <br> 1. Straight and cross circuiting </br>
-<br>2. Osi model simulation 
-<br>3.  basic config of router password 
-<br>4.  configuring interfaces of the router to route 3 lans 
-<br>5.  simple two switch and a router configuration   
-<br>6. static routing with two routers
+2. Osi model simulation 
+<br>3. basic config of router password 
+<br>4. configuring interfaces of the router to route 3 lans 
+<br>5. simple two switch and a router configuration   
+6. static routing with two routers
 <br>7. static routing 3 routers 
 <br>8. Subnetting class C network 
 <br>9. setup 3 vlans for 3 lans under one network subnetted
