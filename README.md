@@ -3,4 +3,14 @@
 <h1> Lab descriptions: </h1> 
 
 <br> 1. Straight and cross circuiting </br>
-<br> 2. Osi model simulation </br> 
+2. Osi model simulation 
+3.  basic config of router password 
+4.  configuring interfaces of the router to route 3 lans 
+5.  simple two switch and a router configuration   
+6. static routing with two routers
+7. static routing 3 routers 
+8. Subnetting class C network 
+9. setup 3 vlans for 3 lans under one network subnetted
+10. 3 vlans and router on a stick one vlan on two differnent switches used trunking to set that up 
+11. Intervlan routing eliminated use of router on a stick 
+12. set up spanning tree protocol messed around with the port priority and cost.  also used portfast and bpduguard
