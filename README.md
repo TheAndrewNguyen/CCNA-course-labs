@@ -12,5 +12,5 @@
 <br>8. Subnetting class C network VLSM 
 <br>9. setup 3 vlans for 3 lans under one network subnetted
 <br>10. 3 vlans and router on a stick one vlan on two differnent switches used trunking to set that up 
-<br>11. Intervlan routing eliminated use of router on a stick 
+<br>11. Intervlan routing eliminated use of router on a stick with a routing switch
 <br>12. set up spanning tree protocol messed around with the port priority and cost.  also used portfast and bpduguard
